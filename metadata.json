@@ -1,0 +1,7 @@
+{
+  "name": "Copy of The Chalukyas of Badami: Architectural Marvels",
+  "description": "An interactive guide to the architectural wonders of the Chalukya dynasty. Explore famous sites like Badami, Pattadakal, and Aihole with an AI-powered chatbot that provides historical insights, analyzes images, generates artistic impressions, and offers information in both English and Kannada.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
